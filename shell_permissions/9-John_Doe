@@ -1,2 +1,3 @@
 #!/bin/bash
-chmod 731 hello && chown juulien: julien hello
+chmod 731 hello
+chown julien:julien hello
